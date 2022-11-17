@@ -35,7 +35,7 @@ http library.
 -- |_      https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-41082
 --
 
-author = "Vlatko Kosturjak"
+modder = "trhacknon"
 
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 
